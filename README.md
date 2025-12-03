@@ -1,1 +1,1 @@
-# Anomaly-web3
+Remove readme
